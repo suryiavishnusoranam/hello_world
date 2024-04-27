@@ -1,23 +1,17 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This project diplays "Hello World" when I run the code. I was able to do so by just using the print statement and inserting "Hello World" with the quotes inside the parantheses. The file format should be .py in the foler.
 
-{Provide a description of your software}
+Creating this project demonstrates fundamental concepts such as writing code, compiling or interpreting it, and seeing the result.
 
-{Describe your purpose for creating this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/r5LaDek4u40)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used VS Code as the source-code editor to develop this project. VS Code provides a user-friendly interface with features like syntax highlighting, code completion, and integrated terminal. Python makes it convenient to upload this project to GitHub.
 
-{Describe the programming language that you used}
+I used Python as the programming language to develop this project.  Python is supported on major operating systems like Windows, macOS, and Linux, making it convenient for me to write and run the code for this project.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+None for this project
